@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561029880778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3766366553",
+    "id" : "3167019B",
+    "lastKnownWriteTime" : 1561039434,
+    "last_content_update" : 1561039434681,
+    "path" : "~/Documents/NBADraft/GettingData.R",
+    "project_path" : "GettingData.R",
+    "properties" : {
+        "cursorPosition" : "45,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
