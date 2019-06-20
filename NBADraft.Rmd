@@ -1,0 +1,21 @@
+---
+title: "NBADraft"
+author: "Cory"
+date: "6/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data
+
+
+```{r}
+(readRDS('Data.rds'))
+```
+```{r}
+readRDS('DraftData.rds')
+```
+
